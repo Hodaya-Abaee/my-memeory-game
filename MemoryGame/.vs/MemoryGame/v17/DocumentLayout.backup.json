@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\MemoryGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCACCDEE-C250-4BCA-9230-D44787482EC1}|MemoryGame\\MemoryGame.csproj|c:\\users\\user\\desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\memorygame\\memorygame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCACCDEE-C250-4BCA-9230-D44787482EC1}|MemoryGame\\MemoryGame.csproj|solutionrelative:memorygame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCACCDEE-C250-4BCA-9230-D44787482EC1}|MemoryGame\\MemoryGame.csproj|c:\\users\\user\\desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\memorygame\\memorygame\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCACCDEE-C250-4BCA-9230-D44787482EC1}|MemoryGame\\MemoryGame.csproj|solutionrelative:memorygame\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCACCDEE-C250-4BCA-9230-D44787482EC1}|MemoryGame\\MemoryGame.csproj|c:\\users\\user\\desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\memorygame\\memorygame\\computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCACCDEE-C250-4BCA-9230-D44787482EC1}|MemoryGame\\MemoryGame.csproj|solutionrelative:memorygame\\computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCACCDEE-C250-4BCA-9230-D44787482EC1}|MemoryGame\\MemoryGame.csproj|c:\\users\\user\\desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\memorygame\\memorygame\\userplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCACCDEE-C250-4BCA-9230-D44787482EC1}|MemoryGame\\MemoryGame.csproj|solutionrelative:memorygame\\userplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCACCDEE-C250-4BCA-9230-D44787482EC1}|MemoryGame\\MemoryGame.csproj|c:\\users\\user\\desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\memorygame\\memorygame\\baseplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCACCDEE-C250-4BCA-9230-D44787482EC1}|MemoryGame\\MemoryGame.csproj|solutionrelative:memorygame\\baseplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCACCDEE-C250-4BCA-9230-D44787482EC1}|MemoryGame\\MemoryGame.csproj|c:\\users\\user\\desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\memorygame\\memorygame\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCACCDEE-C250-4BCA-9230-D44787482EC1}|MemoryGame\\MemoryGame.csproj|solutionrelative:memorygame\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCACCDEE-C250-4BCA-9230-D44787482EC1}|MemoryGame\\MemoryGame.csproj|c:\\users\\user\\desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\memorygame\\memorygame\\targil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCACCDEE-C250-4BCA-9230-D44787482EC1}|MemoryGame\\MemoryGame.csproj|solutionrelative:memorygame\\targil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCACCDEE-C250-4BCA-9230-D44787482EC1}|MemoryGame\\MemoryGame.csproj|c:\\users\\user\\desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\memorygame\\memorygame\\icon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCACCDEE-C250-4BCA-9230-D44787482EC1}|MemoryGame\\MemoryGame.csproj|solutionrelative:memorygame\\icon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCACCDEE-C250-4BCA-9230-D44787482EC1}|MemoryGame\\MemoryGame.csproj|c:\\users\\user\\desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\memorygame\\memorygame\\char.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCACCDEE-C250-4BCA-9230-D44787482EC1}|MemoryGame\\MemoryGame.csproj|solutionrelative:memorygame\\char.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCACCDEE-C250-4BCA-9230-D44787482EC1}|MemoryGame\\MemoryGame.csproj|c:\\users\\user\\desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\memorygame\\memorygame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCACCDEE-C250-4BCA-9230-D44787482EC1}|MemoryGame\\MemoryGame.csproj|solutionrelative:memorygame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\MemoryGame\\MemoryGame\\Board.cs",
+              "RelativeDocumentMoniker": "MemoryGame\\Board.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\MemoryGame\\MemoryGame\\Board.cs",
+              "RelativeToolTip": "MemoryGame\\Board.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:11:57.93Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\MemoryGame\\MemoryGame\\Game.cs",
+              "RelativeDocumentMoniker": "MemoryGame\\Game.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\MemoryGame\\MemoryGame\\Game.cs",
+              "RelativeToolTip": "MemoryGame\\Game.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAF8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:01:16.699Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\MemoryGame\\MemoryGame\\UserPlayer.cs",
+              "RelativeDocumentMoniker": "MemoryGame\\UserPlayer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\MemoryGame\\MemoryGame\\UserPlayer.cs",
+              "RelativeToolTip": "MemoryGame\\UserPlayer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:03:22.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasePlayer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\MemoryGame\\MemoryGame\\BasePlayer.cs",
+              "RelativeDocumentMoniker": "MemoryGame\\BasePlayer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\MemoryGame\\MemoryGame\\BasePlayer.cs",
+              "RelativeToolTip": "MemoryGame\\BasePlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:31:33.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComputerPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\MemoryGame\\MemoryGame\\ComputerPlayer.cs",
+              "RelativeDocumentMoniker": "MemoryGame\\ComputerPlayer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\MemoryGame\\MemoryGame\\ComputerPlayer.cs",
+              "RelativeToolTip": "MemoryGame\\ComputerPlayer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:00:56.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\MemoryGame\\MemoryGame\\Base.cs",
+              "RelativeDocumentMoniker": "MemoryGame\\Base.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\MemoryGame\\MemoryGame\\Base.cs",
+              "RelativeToolTip": "MemoryGame\\Base.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:05:19.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Targil.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\MemoryGame\\MemoryGame\\Targil.cs",
+              "RelativeDocumentMoniker": "MemoryGame\\Targil.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\MemoryGame\\MemoryGame\\Targil.cs",
+              "RelativeToolTip": "MemoryGame\\Targil.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:02:22.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Icon.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\MemoryGame\\MemoryGame\\Icon.cs",
+              "RelativeDocumentMoniker": "MemoryGame\\Icon.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\MemoryGame\\MemoryGame\\Icon.cs",
+              "RelativeToolTip": "MemoryGame\\Icon.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:01:36.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Char.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\MemoryGame\\MemoryGame\\Char.cs",
+              "RelativeDocumentMoniker": "MemoryGame\\Char.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\MemoryGame\\MemoryGame\\Char.cs",
+              "RelativeToolTip": "MemoryGame\\Char.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:05:41.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\MemoryGame\\MemoryGame\\Program.cs",
+              "RelativeDocumentMoniker": "MemoryGame\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\visual studio code\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF \u05EA\u05E9\u05E4\u05D5\\MemoryGame\\MemoryGame\\Program.cs",
+              "RelativeToolTip": "MemoryGame\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAADwv1kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:32:09.399Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

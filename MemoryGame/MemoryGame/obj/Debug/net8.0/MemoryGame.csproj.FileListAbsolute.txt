@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\visual studio code\משחק זיכרון תשפו\MemoryGame\MemoryGame\bin\Debug\net8.0\MemoryGame.exe
+C:\Users\User\Desktop\visual studio code\משחק זיכרון תשפו\MemoryGame\MemoryGame\bin\Debug\net8.0\MemoryGame.deps.json
+C:\Users\User\Desktop\visual studio code\משחק זיכרון תשפו\MemoryGame\MemoryGame\bin\Debug\net8.0\MemoryGame.runtimeconfig.json
+C:\Users\User\Desktop\visual studio code\משחק זיכרון תשפו\MemoryGame\MemoryGame\bin\Debug\net8.0\MemoryGame.dll
+C:\Users\User\Desktop\visual studio code\משחק זיכרון תשפו\MemoryGame\MemoryGame\bin\Debug\net8.0\MemoryGame.pdb
+C:\Users\User\Desktop\visual studio code\משחק זיכרון תשפו\MemoryGame\MemoryGame\obj\Debug\net8.0\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\visual studio code\משחק זיכרון תשפו\MemoryGame\MemoryGame\obj\Debug\net8.0\MemoryGame.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\visual studio code\משחק זיכרון תשפו\MemoryGame\MemoryGame\obj\Debug\net8.0\MemoryGame.AssemblyInfo.cs
+C:\Users\User\Desktop\visual studio code\משחק זיכרון תשפו\MemoryGame\MemoryGame\obj\Debug\net8.0\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\visual studio code\משחק זיכרון תשפו\MemoryGame\MemoryGame\obj\Debug\net8.0\MemoryGame.dll
+C:\Users\User\Desktop\visual studio code\משחק זיכרון תשפו\MemoryGame\MemoryGame\obj\Debug\net8.0\refint\MemoryGame.dll
+C:\Users\User\Desktop\visual studio code\משחק זיכרון תשפו\MemoryGame\MemoryGame\obj\Debug\net8.0\MemoryGame.pdb
+C:\Users\User\Desktop\visual studio code\משחק זיכרון תשפו\MemoryGame\MemoryGame\obj\Debug\net8.0\MemoryGame.genruntimeconfig.cache
+C:\Users\User\Desktop\visual studio code\משחק זיכרון תשפו\MemoryGame\MemoryGame\obj\Debug\net8.0\ref\MemoryGame.dll
